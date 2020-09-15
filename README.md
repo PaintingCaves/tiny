@@ -1,3 +1,4 @@
+[![npm version](http://img.shields.io/npm/v/@paintingcaves/tiny.svg?style=flat)](https://npmjs.org/package/@paintingcaves/tiny "View this project on npm")
 # tiny
 a tiny test for npm use
 
